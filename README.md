@@ -195,4 +195,4 @@ text widget merupakan bagian dari widget dasar karna setiap tampilan penulisan b
     
     [TextStyle class - painting library - Dart API](https://api.flutter.dev/flutter/painting/TextStyle-class.html)
 
-![code-snapshot.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/abcb1cf6-3200-4445-9cf9-e3c071b63f38/16a4c60b-df4e-46ab-8c02-aa121203c42f/code-snapshot.png)
+![code-snapshot](https://github.com/appworkspaceRM/text-widget/assets/135511281/7cc52780-c1f7-4f89-a5ab-213d294cb2dd)
